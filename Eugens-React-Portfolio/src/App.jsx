@@ -1,12 +1,11 @@
-
-// Import the CSS module
+import React from 'react';
 import styles from './App.module.css';
+import Navbar from './components/Navbar/Navbar';
 
 function App() {
   return (
-    <div className={styles.App}>
-      <p>Hello World!!</p>
-      {/* Add more content as needed */}
+    <div className={styles.App} style={{ backgroundColor: 'var(--color-bg)' }}>
+      <Navbar />
     </div>
   );
 }
