@@ -26,6 +26,10 @@ export const Contact = () => {
               <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
               <a href="https://www.github.com/myname">github.com/myname</a>
             </li>
+        {/* Add the download link for your CV */}
+        <li className={styles.link}>
+          <a href="/path/to/your/cv.pdf" download>Download CV</a>
+        </li>
           </ul>
         </footer>
       );
