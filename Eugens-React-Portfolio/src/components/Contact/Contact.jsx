@@ -13,22 +13,22 @@ export const Contact = () => {
           <ul className={styles.links}>
             <li className={styles.link}>
               <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-              <a href="mailto:myemail@email.com">myemail@email.com</a>
+              <a href="mailto:bardhoshieugen2@gmail.com">bardhoshieugen2@gmail.com</a>
             </li>
             <li className={styles.link}>
               <img
                 src={getImageUrl("contact/linkedinIcon.png")}
                 alt="LinkedIn icon"
               />
-              <a href="https://www.linkedin.com/myname">linkedin.com/myname</a>
+              <a href="http://Www.linkedin.com/in/eugen-bardhoshi">Eugen Bardhoshi</a>
             </li>
             <li className={styles.link}>
               <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-              <a href="https://www.github.com/myname">github.com/myname</a>
+              <a href="https://github.com/Eugeni77">Eugen Bardhoshi</a>
             </li>
         {/* Add the download link for your CV */}
         <li className={styles.link}>
-          <a href="/path/to/your/cv.pdf" download>Download CV</a>
+          <a href="\assets\CV\Eugen__Bardhoshi Resume.pdf" download>Download CV</a>
         </li>
           </ul>
         </footer>
