@@ -1,0 +1,19 @@
+[
+    {
+      "title": "Eatway Project",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["JavaScript", "Html", "Api"],
+      "demo": "https://uvee35.github.io/Eataway-Website/",
+      "source": "https://github.com/uvee35/Eataway-Website"
+    },
+    {
+      "title": "Weather App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages and API",
+      "skills": ["API", "JavaScript", "Html"],
+      "demo": "https://eugeni77.github.io/dayscheudle/",
+      "source": "https://github.com/Eugeni77/"
+    }
+    
+  ]
